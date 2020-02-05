@@ -8,14 +8,6 @@ The selection of papers is inevitably biased. Please always use search engines i
 
 ## Areas and Subareas
 They are listed alphabetically. Each area folder also contains one same name markdown file, where unorganized publications are put there temporarily.
-* [Control](Control/Control.md)
-  * [Control barrier functions](Control/ControlBarrierFunctions.md)
-  * [Filtering](Control/Filtering.md)
-  * [Hybrid systems](Control/HybridSystems.md)
-* [Optimization](Optimization/Optimization.md)
-* [Planning](Planning/Planning.md)
-  * [TrajectoryOptimization](Planning/TrajectoryOptimization.md)
-  * [TrajectorySmooth](Planning/TrajectorySmooth.md)
 
 ## Contributing
 Please follow the current markdown style, and send pull requests to us.
